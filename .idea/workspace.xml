@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="545c19e3-c680-4784-bae4-c73efeee5acf" name="Changes" comment="" />
+    <list default="true" id="545c19e3-c680-4784-bae4-c73efeee5acf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Feature1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Feature1/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +51,8 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "//wsl$/Ubuntu-20.04/home/rhinojosa/pruebasGIT/pruebas",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
